@@ -1,7 +1,4 @@
 ## Dhaaba
-
-<img src="https://github.com/Tsurya06/Dhaaba/tree/main/images/readme.jpg" alt="Dhaaba" />
-
 **Live preview: [Click me](https://tsurya06.github.io/Dhaaba/)**
 
 ---
